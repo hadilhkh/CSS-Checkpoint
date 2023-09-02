@@ -1,0 +1,68 @@
+h1{
+    color: rgb(87, 158, 169);text-decoration: wavy;
+}
+
+.title{
+    color: skyblue;
+    text-align: center;
+}
+
+#diplome{
+    font-style: italic;
+}
+
+a{
+    display: inline;
+    border: 2px outset rgb(109, 188, 198);
+}
+
+div{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#box1,#box2,#box3,#box4,#box5{
+    border: 5px outset powderblue;
+    background: linear-gradient(#BAECF8, #8CC0CC);
+}
+
+head{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+div{
+    text-align: justify;
+}
+/* lien non consulté */
+a:link {
+        color: rgb(91, 162, 172);
+    }
+
+    /* lien consulté */
+a:visited {
+        color: rgb(255, 130, 108);
+    }
+
+    /* lien sélectionné */
+a:active{
+        color: #9797ee
+    }
